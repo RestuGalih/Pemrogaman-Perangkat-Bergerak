@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/colorAzur">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@color/colorAzur"
+                android:layout_marginTop="30dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Nama Anda"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="25dp"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:layout_marginTop="@dimen/activity_vertical_layout"/>
+                <EditText
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Masukkan Nama"
+                    android:inputType="text"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="@dimen/activity_vertical_layout" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Alamat email"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="25dp"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:layout_marginTop="@dimen/activity_vertical_layout"/>
+                <EditText
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Email anda"
+                    android:inputType="textEmailAddress"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="@dimen/activity_vertical_layout"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Jumlah Donasi"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="25dp"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:layout_marginTop="@dimen/activity_vertical_layout"/>
+                <EditText
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Masukkan jumlah donasi"
+                    android:layout_marginLeft="10dp"
+                    android:inputType="number"
+                    android:layout_marginTop="@dimen/activity_vertical_layout"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tambah Catatan :"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="25dp"
+                    android:layout_marginTop="40dp"/>
+
+                <EditText
+                    android:layout_width="390dp"
+                    android:layout_height="132dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="@dimen/activity_vertical_layout"
+                    android:background="@drawable/kotak"
+                    android:inputType="textMultiLine" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="35dp"
+                    android:background="@drawable/buttonstyle2"
+                    android:text="PEMBAYARAN"
+                    android:textColor="#fff"
+                    android:textSize="20sp" />
+
+
+            </LinearLayout>
+
+            </LinearLayout>
+
+
+
+
+</ScrollView>
+
+
+
+
+
+
+
+

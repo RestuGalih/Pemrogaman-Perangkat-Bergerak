@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SignUpApp</string>
+    <string name="daftar">Sign Up</string>
+    <string name="user">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="conten_text">2A studio adalah tmpat untuk belajar
+    pemrogamanan perangkat bergerak baik dega android.IOS, maupun Windows Phone. Tidak perlu khawatir
+    jika anda belum memiliki basic progamming sebelmunya. Sebab disisni anda
+    akan diberi/diajari from zero to hero dalam membuat aplikasi bebasis mobile. Segera
+    daftarkan diri anda, Minggu depan harga naik !</string>
+    <string name="welcome">Selamat Datang di Polines Studio</string>
+
+</resources>
