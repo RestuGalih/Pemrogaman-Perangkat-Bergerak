@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="hmj_name">HMJ Polines</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>HMJ Elektro</item>
+        <item>HMJ Sipil</item>
+        <item>HMJ Mesin</item>
+        <item>HMJ Akutansi</item>
+        <item>HMJ Administrasi Bisnis</item>
+        <item>UKM PCC</item>
+        <item>UKM Konsep</item>
+        <item>UKM SPORT</item>
+        <item>UKM Pengembang Pengetahuan</item>
+        <item>UKM Wapalhi</item>
+        <item>UKM Kopma</item>
+        <item>UKM PECC</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            Himpunan Mahasiswa Jurusan Teknik Elektro adalah salah satu Himpun
+            an Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organ
+            isasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tek
+            nik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>
+            Himpunan Mahasiswa Jurusan Teknik Sipil adalah salah satu Himpun
+            an Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organ
+            isasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tek
+            nik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>
+            Himpunan Mahasiswa Jurusan Teknik Mesin adalah salah satu Himpun
+            an Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organ
+            isasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tek
+            nik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>
+            Himpunan Mahasiswa Jurusan Akuntansi adalah salah satu Himpun
+            an Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organ
+            isasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tek
+            nik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>
+            Himpunan Mahasiswa Jurusan Administrasi Bisnis adalah salah satu Himpun
+            an Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organ
+            isasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tek
+            nik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Unit Kegiatan Mahasiswa Polytechnic Computer Club atau biasa disin
+            gkat UKM PCC, merupakan organisasi di Politeknik Negeri Semarang yang bergerak d
+            i bidang informasi dan teknologi. UKM Polytechnic Computer Club secara eksplisit
+            terbagi menjadi dua bagian inti, yaitu Workshop dan Organisasi.</item>
+
+        <item>UKM Komunitas Seni Polines merupakan satusatunya unit kegiatan mahasiswa di
+            Politeknik Negeri Semarang yang bergerak di b idang Kesenian. Nama UKM Komunitas
+        Seni Polines diresmikan pada tanggal 21 Juni 2003. Fungsi UKM KoNSeP adalah sebagai satu
+        satunya sarana pembangunan dan penyaluran minat dan bakat Mahasiswa Polines dala m bidang seni dan berorganisasi.</item>
+        <item>UKM Sport Politeknik Negeri Semarang terdiri dari 9 cabang olahraga yaitu sepak bola, futsal, badminton,
+            tennis, volly, basket, taekwondo, karate, pencak silat</item>
+        <item>UKM Pengembangan Pengetahuan yang disingkat UKM PP merupakan salah satu Unit Kegiatan Mahasiswa di Politeknik Negeri
+            Semarang yang sudah cukup berumur dan dibentuk pada tanggal 12 Mei 1997. Dalam kiprahnya cukup memberikan kontribusi yang
+            tidak bisa dianggap remeh, namun dengan berkembangnya wacana dan idealisme mahasiswa maka kegiatan - kegiatan yang sifatnya
+            sudah spesifik misalnya broad casting (sekarang PLBS) dan computer (sekarang PCC)</item>
+        <item>UKM Wapalhi adalah salah satu UKM yang bergerak dibidang lingkungan hidup . UKM ini memberikan kontribusi
+        dalam menjaga kelestaraian lingkungan hidup seperti kegiatan penanaman pohon dan lain sebagainya</item>
+        <item>Koperasi Mahasiswa Bahtera Manunggal adalah Unit Kegiatan Mahasiswa (UKM) di Politeknik Negeri Semarang (Polines)
+            yang bergerak dibidang ekonomi bisnis, yang beranggotakan seluruh mahasiswa Polines, sedangkan yang membedakan dengan
+            UKM yang lainnya yaitu Koperasi Mahasiswa Bahtera Manunggal telah berbadan hukum.</item>
+        <item>UKM Polytechnic English Conversations Club adalah salah satu UKM di POLINES yang bergerak dibidang keterampilan berbahasa Inggris.
+        Setiap anggota dari UKM ini dilatih untuk dapat berbahasa inggris dalam hal apapun</item>
+
+    </string-array>
+    <string-array name="photo">
+        <item>https://i.postimg.cc/QxdcLRBk/hme.jpg</item>
+        <item>https://i.postimg.cc/yxBXSxYw/hms.jpg</item>
+        <item>https://i.postimg.cc/LsL1BS7R/hmm.jpg</item>
+        <item>https://i.postimg.cc/3NS4Jxyj/hmak.jpg</item>
+        <item>https://i.postimg.cc/pLYvD1Z4/hmab.jpg</item>
+        <item>https://i.postimg.cc/8PGrdsgC/pcc.png</item>
+        <item>https://i.postimg.cc/QC3VqYPz/konsep.png</item>
+        <item>https://i.postimg.cc/L5jsrpqZ/sport.jpg</item>
+        <item>https://i.postimg.cc/wTT8Kzs8/pp.png</item>
+        <item>https://i.postimg.cc/s235mTNc/wapalhi.jpg</item>
+        <item>https://i.postimg.cc/wMYNtFLL/kopma2.png</item>
+        <item>https://i.postimg.cc/DzW4BRc1/pecc.jpg</item>
+
+    </string-array>
+</resources>
