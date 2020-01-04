@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">MyMultilanguageApp</string>
+    <string name="football">Equipo nacional de Indonesia
+        gana contra equipo nacional de Tailandia</string>
+    <string name="goal">Gol de Indonesia anotado por %1$s y %2$s, entonces el puntaje final es %3$d - %4$d por la victoria de Indonesia </string>
+    <plurals name="numberOfSongAvailable">
+        <item quantity="one">%d canción funda</item>
+        <item quantity="other">%d canción funda</item>
+    </plurals>
+    <string name="app_homeurl">
+        visita nosotros e  <xliff:g id="homepage">https://www.polines.ac.id</xliff:g>
+    </string>
+    <string name="change_language_settings">Cambiar configuración de idioma</string>
+    <string name="tab_text1">Casa</string>
+    <string name="tab_text2">Perfil</string>
+    <string name="profile_fragment">Mi Perfil</string>
+    <string name="Name">El Nombre</string>
+    <string name="nName">Restu Galih Kustiawan</string>
+    <string name="Address">La Direccion</string>
+    <string name="nAddress">Calle Tentara Pelajar número 23</string>
+    <string name="Hobby">un pasatiempo</string>
+    <string name="nHobby">fútbol</string>
+    <string name="Quote">Cita</string>
+    <string name="nQuote">Eres el capitán de tu propio barco de la felicidad. Si no puedes tomar las ruedas, alguien más lo hará
+</string>
+</resources>
